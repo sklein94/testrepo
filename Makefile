@@ -1,6 +1,6 @@
 # Set these to the desired values
 ARTIFACT_ID=
-VERSION=
+VERSION=4.2.3-11
 
 MAKEFILES_VERSION=5.0.0
 
